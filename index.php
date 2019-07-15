@@ -63,6 +63,58 @@
 
 
 
+            <div class="right-message common-margin">
+                <div class="right-msg-area">
+                    <span class="date-time right-time">
+                        1 day ago
+                    </span><!-- close date-time -->
+                    <div class="right-msg">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consectetur consequatur doloribus esse maiores minus officia quasi quod repudiandae voluptatum.</p>
+                    </div>
+                </div><!-- close right-msg-area -->
+            </div><!-- close right-message -->
+            <div class="right-message common-margin">
+                <div class="right-msg-area">
+                    <span class="date-time right-time">
+                        1 day ago
+                    </span><!-- close date-time -->
+                    <div class="right-msg">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consectetur consequatur doloribus esse maiores minus officia quasi quod repudiandae voluptatum.</p>
+                    </div>
+                </div><!-- close right-msg-area -->
+            </div><!-- close right-message -->
+            <div class="left-message common-margin">
+                <div class="sender-img-block">
+                    <img src="assets/img/pro3.jpg" alt="" class="sender-img">
+                </div><!-- close sender-img-block -->
+
+                <div class="left-msg-area">
+                    <div class="user-name-date">
+                        <span class="sender-name">
+                            Yegan CHI
+                        </span><!-- close sender-name -->
+                        <span class="date-time">
+                                1 day ago
+                        </span><!-- close date-time -->
+                    </div> <!-- close user-name-date -->
+
+                    <div class="left-msg">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus cum porro voluptates? Aspernatur assumenda, beatae deserunt id ipsa numquam sit.</p>
+                    </div><!-- close left-msg -->
+                </div><!-- close left-msg-area -->
+            </div><!-- close left-message -->
+            <div class="right-message common-margin">
+                <div class="right-msg-area">
+                    <span class="date-time right-time">
+                        1 day ago
+                    </span><!-- close date-time -->
+                    <div class="right-msg">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis consectetur consequatur doloribus esse maiores minus officia quasi quod repudiandae voluptatum.</p>
+                    </div>
+                </div><!-- close right-msg-area -->
+            </div><!-- close right-message -->
+
+
 
 
 
