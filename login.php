@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Signup User</title>
+    <title>Login User</title>
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
@@ -26,14 +26,11 @@
 
                 <div class="group">
                     <h1 class="form-heading">
-                        CREATE NEW ACCOUNT
+                     User login
                     </h1>
                 </div><!-- close group -->
 
 
-                <div class="group">
-                    <input type="text" name="full_name" class="control" placeholder="Enter Full name...">
-                </div><!-- close group -->
                 <div class="group">
                     <input type="email" name="email" class="control" placeholder="Enter Email...">
                 </div><!-- close group -->
@@ -42,18 +39,12 @@
                 </div><!-- close group -->
 
                 <div class="group">
-                    <label for="file" id="file-label">
-                        <i class="upload-icon fas fa-cloud-upload-alt"></i>
-                        Choose image</label>
-                    <input type="file" name="img" id="file" class="file">
-                </div>
-                <div class="group">
-                    <input type="submit" name="submit" class="btn btn-account" value="Create Account">
+                    <input type="submit" name="submit" class="btn btn-account" value="User Login">
                 </div>
 
                 <div class="group">
-                    <a href="login.php" class="link">
-                        Already have an account?
+                    <a href="signup.php" class="link">
+                       Create new account?
                     </a>
                 </div>
             </form>
